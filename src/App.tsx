@@ -41,9 +41,9 @@ const artists: Artist[] = [
       "https://images.unsplash.com/photo-1761724795645-ae3a16af3c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpbmslMjBwYWludGluZyUyMGNhbGxpZ3JhcGh5fGVufDF8fHx8MTc2MjI3MDgxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "https://images.unsplash.com/photo-1759220513514-6fe8b6bcbbc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhc2lhbiUyMGNvbnRlbXBvcmFyeSUyMGFydHxlbnwxfHx8fDE3NjIyNzA4MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     ],
-    goal: 30000,
-    raised: 24750,
-    backers: 156,
+    goal: 10000,
+    raised: 6500,
+    backers: 27,
     bio: "Alice Wang is a contemporary artist based in Shanghai and New York. She received her MFA from the Central Academy of Fine Arts in Beijing and has exhibited internationally at galleries in Asia, Europe, and North America. Her work bridges millennia-old Chinese ink painting traditions with contemporary conceptual art practices, creating a unique visual language that speaks to global audiences while honoring her cultural heritage.",
     location: "Shanghai / New York",
     website: "https://alicewang.art",
@@ -91,8 +91,8 @@ This project represents a bridge between two worlds—honoring the 2,000-year tr
     title: "Minimalist Sculptor",
     description: "Creating precise geometric sculptures that explore the relationship between negative space, light, and form through industrial materials and mathematical precision.",
     imageUrl: "https://images.unsplash.com/photo-1745130839558-55b2f78f1739?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBhc2lhbiUyMHNjdWxwdHVyZXxlbnwxfHx8fDE3NjIyNzA4MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    goal: 45000,
-    raised: 38250,
+    goal: 7000,
+    raised: 3000,
     backers: 203,
     bio: "Alfonso Lee is a Singapore-based sculptor known for his minimalist approach to three-dimensional form. After studying architecture at the National University of Singapore and sculpture at the Royal College of Art in London, he has developed a distinctive practice that sits at the intersection of art, architecture, and mathematics. His works have been installed in public spaces across Asia and featured in prestigious collections worldwide.",
     location: "Singapore",
@@ -125,10 +125,10 @@ This project represents a bridge between two worlds—honoring the 2,000-year tr
 I'm creating a large-scale public sculpture that uses precise geometric forms to create an ever-changing interplay of light, shadow, and negative space. This monumental work will be constructed from aerospace-grade aluminum and installed in Singapore's Marina Bay district.
 
 Project Budget:
-— Materials and fabrication ($25,000)
-— Engineering and structural design ($8,000)
-— Installation and site preparation ($10,000)
-— Documentation and NFT creation ($2,000)
+— Materials and fabrication ($4,500)
+— Engineering and structural design ($2,000)
+— Installation and site preparation ($2,000)
+— Documentation and NFT creation ($300)
 
 The Work:
 Standing 15 feet tall, "Infinite Horizon" consists of intersecting geometric planes that frame views of the city skyline and waterfront. As viewers move around the sculpture, the forms align and separate, creating dynamic compositions that change with perspective and time of day.
